@@ -1,1 +1,3 @@
-# tech1
+# eCommerce Website Project
+
+Run backend and frontend separately.
